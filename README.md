@@ -1,2 +1,2 @@
-# tcp-client-cpp
-Client for the TCP Putty program made in C++
+# Hello and welcome to the program I made
+This is a simple TCP server/cleint for creating tcpip objects.
